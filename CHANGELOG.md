@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/WYRE-AI/node-hudu/compare/v1.0.3...v1.0.4) (2026-08-25)
+
+
+### Bug Fixes
+
+* migrate to WYRE-AI org (npm scope, ghcr namespace, registry) ([#58](https://github.com/WYRE-AI/node-hudu/issues/58)) ([4f2d669](https://github.com/WYRE-AI/node-hudu/commit/4f2d669438e80013484f62f881e710f814367a94))
+
 ## [1.0.3](https://github.com/wyre-technology/node-hudu/compare/v1.0.2...v1.0.3) (2026-07-18)
 
 

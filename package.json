@@ -1,5 +1,5 @@
 {
-  "name": "@wyre-technology/node-hudu",
+  "name": "@wyre-ai/node-hudu",
   "version": "1.0.3",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
@@ -49,12 +49,12 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wyre-technology/node-hudu.git"
+    "url": "git+https://github.com/WYRE-AI/node-hudu.git"
   },
   "bugs": {
-    "url": "https://github.com/wyre-technology/node-hudu/issues"
+    "url": "https://github.com/WYRE-AI/node-hudu/issues"
   },
-  "homepage": "https://github.com/wyre-technology/node-hudu#readme",
+  "homepage": "https://github.com/WYRE-AI/node-hudu#readme",
   "engines": {
     "node": ">=18.0.0"
   },

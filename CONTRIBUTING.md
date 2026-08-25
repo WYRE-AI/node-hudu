@@ -1,4 +1,4 @@
-# Contributing to @wyre-technology/node-hudu
+# Contributing to @wyre-ai/node-hudu
 
 Thank you for your interest in contributing to the Hudu SDK. This guide will help you get started.
 
@@ -11,7 +11,7 @@ Thank you for your interest in contributing to the Hudu SDK. This guide will hel
 
 ```bash
 # Clone the repository
-git clone https://github.com/wyre-technology/node-hudu.git
+git clone https://github.com/WYRE-AI/node-hudu.git
 cd node-hudu
 
 # Install dependencies

@@ -1,4 +1,4 @@
-# @wyre-technology/node-hudu
+# @wyre-ai/node-hudu
 
 Comprehensive, fully-typed Node.js/TypeScript library for the Hudu IT documentation API.
 
@@ -15,20 +15,20 @@ Comprehensive, fully-typed Node.js/TypeScript library for the Hudu IT documentat
 ## Installation
 
 ```bash
-npm install @wyre-technology/node-hudu
+npm install @wyre-ai/node-hudu
 ```
 
 This package is published to GitHub Packages. Add the following to your `.npmrc` file:
 
 ```
 # .npmrc
-@wyre-technology:registry=https://npm.pkg.github.com
+@wyre-ai:registry=https://npm.pkg.github.com
 ```
 
 ## Quick Start
 
 ```typescript
-import { HuduClient } from '@wyre-technology/node-hudu';
+import { HuduClient } from '@wyre-ai/node-hudu';
 
 const client = new HuduClient({
   baseUrl: 'https://acme.huducloud.com',
@@ -223,7 +223,7 @@ import {
   HuduValidationError,
   HuduRateLimitError,
   HuduServerError,
-} from '@wyre-technology/node-hudu';
+} from '@wyre-ai/node-hudu';
 
 try {
   const company = await client.companies.get(999);
@@ -267,7 +267,7 @@ import type {
   Relation,
   MagicDash,
   PaginationParams,
-} from '@wyre-technology/node-hudu';
+} from '@wyre-ai/node-hudu';
 ```
 
 ## Rate Limit Status
@@ -286,4 +286,4 @@ Apache-2.0
 
 ## Author
 
-[Wyre Technology](https://github.com/wyre-technology)
+[Wyre Technology](https://github.com/WYRE-AI)
